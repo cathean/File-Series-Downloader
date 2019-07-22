@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cursed_cat">
+    <file>cursed_cat.jpg</file>
+  </qresource>
+</RCC>
